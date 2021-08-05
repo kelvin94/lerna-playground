@@ -6,5 +6,6 @@
   "private": false,
   "devDependencies": {
     "@klin/pkg1": "^1.0.1"
-  }
+  },
+  "gitHead": "8db15dfeb50016032c250ae478a985a169c0b69c"
 }
