@@ -1,11 +1,11 @@
 {
   "name": "@klin/pkg2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "private": false,
   "devDependencies": {
-    "@klin/pkg1": "^1.0.1"
+    "@klin/pkg1": "^1.0.2"
   },
   "gitHead": "8db15dfeb50016032c250ae478a985a169c0b69c"
 }
