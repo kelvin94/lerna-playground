@@ -1,10 +1,10 @@
 {
   "name": "@klin/pkg2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "private": false,
   "devDependencies": {
-      "@klin/pkg1": "^1.0.0"
+    "@klin/pkg1": "^1.0.1"
   }
 }
